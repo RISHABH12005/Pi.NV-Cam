@@ -26,7 +26,7 @@ Raspberry Pi cameras are designed for capturing high-quality images and videos o
 * **Interface:** USB or CSI (depending on model)
 * **Features:** Infrared illumination, black-and-white or enhanced IR video, real-time streaming
 * **Use Cases:** Surveillance, wildlife monitoring, robotics navigation in low-light
-* **Compatibility:** Raspberry Pi models with USB or CSI input; may require additional drivers/software
+* **Compatibility:** Raspberry Pi models with USB or CSI (RPi 3, 4) input; may require additional drivers/software
 
 ---
 

@@ -23,10 +23,13 @@ Raspberry Pi cameras are designed for capturing high-quality images and videos o
 
 ## Night Vision NORI Camera
 
-* **Interface:** USB or CSI (depending on model)
-* **Features:** Infrared illumination, black-and-white or enhanced IR video, real-time streaming
-* **Use Cases:** Surveillance, wildlife monitoring, robotics navigation in low-light
-* **Compatibility:** Raspberry Pi models with USB or CSI (RPi 3, 4) input; may require additional drivers/software
+* Interface: Typically USB 2.0/3.0 or CSI depending on the model
+* Infrared Illumination: Built-in IR LEDs allow recording in total darkness
+* Video Resolution: Models support 720p, 1080p, or higher depending on variant
+* Frame Rate: Typically 30 fps for standard night vision recording
+* Image Output: Black-and-white IR images; some models can simulate pseudo-color IR video
+* Real-Time Streaming: Supports live monitoring over USB or network (with software)
+* Power: Powered via USB or CSI (RPi 3,4) interface; low power consumption suitable for 24/7 monitoring
 
 ---
 

@@ -57,10 +57,10 @@ import picamera2
 sudo apt install -y libcamera-apps libcamera-tools
 ```
 ```bash
-libcamera-still -o image.jpg # Capture Image (CSI Camera)
+libcamera-still -o image.jpg # Capture Img.
 ```
 ```bash
-libcamera-vid -t 10000 -o video.h264 # Record Video (CSI Camera)
+libcamera-vid -t 10000 -o video.h264 # Record Vid.
 ```
 
 ### OpenCV

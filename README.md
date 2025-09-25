@@ -35,10 +35,8 @@ RPi cameras are designed for capturing high quality img. & vid. on RPi devices. 
    # Navigate to Interface Options -> Camera -> Enable
    sudo reboot
    ```
-
-4. Verify detection:
    ```bash
-   lsusb
+   lsusb # Verify detection
    ```
 
 ### Picamera Library

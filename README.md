@@ -3,8 +3,6 @@
 ## About
 RPi cameras are designed for capturing high quality img. & vid. on RPi devices. Night Vision cameras, like the NORI Camera, allow imaging in low light & dark env. using infrared illumination.
 
----
-
 ## RPi Cam Module
 * *Interface:* 15 pin MIPI CSI-2 connector.
 * *Supported Resolutions:* Up to 8 MP for standard cameras, 12.3 MP for High Quality (HQ) Camera.
@@ -12,8 +10,6 @@ RPi cameras are designed for capturing high quality img. & vid. on RPi devices. 
 * *Features:* Auto-exposure, auto-white balance, raw capture, video streaming.
 * *Compatibility:* Raspberry Pi 3, 4, 5 & Compute Module.
 * *Software Support:* `libcamera`,`picamera2`, `OpenCV`.
-
----
 
 ## NoIR Cam Module
 * Interface: Typically USB 2.0/3.0 or CSI depending on the model.
@@ -23,8 +19,6 @@ RPi cameras are designed for capturing high quality img. & vid. on RPi devices. 
 * Image Output: Black-and-white IR images; some models can simulate pseudo color IR video.
 * Real-Time Streaming: Supports live monitoring over USB or network (with software).
 * Power: Powered via USB or CSI (RPi 3,4) interface; low power consumption suitable for 24/7 monitoring.
-
----
 
 ## Installation
 1. Locate the CSI port (15-pin) near HDMI on the RPi.

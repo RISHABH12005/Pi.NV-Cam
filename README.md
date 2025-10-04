@@ -4,21 +4,21 @@
 RPi cameras are designed for capturing high quality img. & vid. on RPi devices. Night Vision NoIR cameras allow imaging in low light & dark env. using infrared illumination.
 
 ## RPi Cam Module
-* *Interface:* 15 pin MIPI CSI-2 connector.
-* *Supported Resolutions:* Up to 8 MP for standard cameras, 12.3 MP for High Quality (HQ) Camera.
-* *Video Capabilities:* 1080p @ 30fps, 720p @ 60fps, VGA @ 90fps; HQ Camera supports interchangeable lenses.
-* *Features:* Auto-exposure, auto-white balance, raw capture, video streaming.
-* *Compatibility:* Raspberry Pi 3, 4, 5 & Compute Module.
-* *Software Support:* `libcamera`,`picamera2`, `OpenCV`.
+* *Interface :* 15 pin MIPI CSI-2 connector.
+* *Supported Resolutions :* 5 MP for standard camera.
+* *Video Capabilities :* Up 2592 X 1944 pixels, HQ Camera supports.
+* *Features :* Auto exposure, auto white balance, raw capture, video streaming.
+* *Compatibility :* Raspberry Pi 3, 4, 5 & Compute Module.
+* *Software Support :* `libcamera`,`picamera2`, `OpenCV`.
 
 ## Night Vision NoIR Cam Module
-* Interface: Typically USB 2.0/3.0 or CSI depending on the model.
-* Infrared Illumination: Built-in IR LEDs allow recording in total darkness.
-* Video Resolution: Models support 720p, 1080p, or higher depending on variant.
-* Frame Rate: Typically 30 fps for standard night vision recording.
-* Image Output: Black-and-white IR images; some models can simulate pseudo color IR video.
-* Real-Time Streaming: Supports live monitoring over USB or network (with software).
-* Power: Powered via USB or CSI (RPi 3,4) interface; low power consumption suitable for 24/7 monitoring.
+* *Interface :* CSI(Camera Serial Interface).
+* *Infrared Illumination :* IR LEDs allow recording in total darkness.
+* *Video Resolution :* 5MP Camera works at night, 60° adjustable focus.
+* *Frame Rate :* Typically 30 fps for standard night vision recording.
+* *Image Output :* Black & white IR images; simulate pseudo color IR video.
+* *Real Time Streaming :*  Supports live monitoring or network.
+* *Power :* CSI (RPi 3,4) interface; low power consumption suitable for 24/7 monitoring.
 
 ## Installation
 1. Locate the CSI port (15-pin) near HDMI on the RPi.

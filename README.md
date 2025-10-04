@@ -15,7 +15,6 @@ RPi cameras are designed for capturing high quality img. & vid. on RPi devices. 
 * *Interface :* CSI(Camera Serial Interface).
 * *Infrared Illumination :* IR LEDs allow recording in total darkness.
 * *Video Resolution :* 5MP Camera works at night, 60° adjustable focus.
-* *Frame Rate :* Typically 30 fps for standard night vision recording.
 * *Image Output :* Black & white IR images; simulate pseudo color IR video.
 * *Real Time Streaming :*  Supports live monitoring or network.
 * *Power :* CSI (RPi 3,4) interface; low power consumption suitable for 24/7 monitoring.
